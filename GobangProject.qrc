@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/GobangProject">
+        <file>Resources/24pixel_BlackChess0.png</file>
+        <file>Resources/24pixel_BlackChess0_new.png</file>
+        <file>Resources/24pixel_BlackChess0_Present.png</file>
+        <file>Resources/24pixel_WhiteChess0.png</file>
+        <file>Resources/24pixel_WhiteChess0_new.png</file>
+        <file>Resources/24pixel_WhiteChess0_Present.png</file>
+        <file>Resources/BlackChess0.png</file>
+        <file>Resources/logo_100x100.png</file>
+        <file>Resources/logo_200x200.png</file>
+        <file>Resources/WhiteChess0.png</file>
+    </qresource>
+</RCC>
